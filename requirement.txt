@@ -55,3 +55,10 @@ wsgiref==0.1.2
 xdiagnose==3.6.3build2
 zope.interface==4.0.5
 gunicorn==17.2
+matplotlib==1.5.1
+mpld3==0.2
+nomkl
+numpy
+pandas
+scipy
+scikit-learn
